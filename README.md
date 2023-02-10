@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14473
-Fork on GitHub
-3857
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hey There 👋, I'm Gabriel Ferreira Machado</h1>
 <h3 align="center">I'm passionate about React/Node. Software Developer 💻 Analysis and systems development 💜 Software developer since 2018, today I work as a senior systems developer at Philips, in the area of ​​developing new technologies. Currently, I'm a fullstack web developer, working with Typescript. Welcome to my Github!</h3>
 
@@ -34,28 +18,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegfmachado&show_icons=true&locale=en" alt="thegfmachado" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegfmachado&" alt="thegfmachado" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
