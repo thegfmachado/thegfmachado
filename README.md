@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">* I'm passionate about React/Node 👌💙. <br>* Senior Software Developer 💻 at Philips<br>* Software development and analysis<br><br> Software developer since 2018, today I work as a senior systems developer at Philips, in the area of ​​developing new technologies. Currently, I'm a fullstack web developer, working with typescript, react, node and postgresql.</h3>
+<h3 align="left">* I'm passionate about React/Node 👌💙. <br>* Senior Software Developer 💻 at <a href="https://www.linkedin.com/company/philips" target="_blank">Philips</a><br> Software developer since 2018, today I work as a senior systems developer at Philips, ​​developing new internal technologies. Currently, I'm a fullstack web developer, working with typescript, react, node and postgresql.</h3>
 
 ###
 
@@ -76,9 +76,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/21zmcgk2jxclpjijp73rottfq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21zmcgk2jxclpjijp73rottfq&unique={true|1|on|yes})
 </div>
 
 ###
