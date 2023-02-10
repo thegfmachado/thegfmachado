@@ -73,7 +73,7 @@
 <h3 align="left">🎵 Mood:</h3>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21zmcgk2jxclpjijp73rottfq" alt="Spotify recently played"  />
 </div>
 
 ###
