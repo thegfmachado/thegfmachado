@@ -1,4 +1,4 @@
-<h1 align="left">Hey There 🤘, I'm Gabriel Ferreira Machado</h1>
+<h2 align="center">Hey There 🤘, I'm Gabriel Ferreira Machado</h2>
 
 ###
 
