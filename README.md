@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Senior Software Developer 💻 at <a href="https://www.linkedin.com/company/philips" target="_blank">Philips</a><br>- I'm passionate about learning new things and improve my skills. 💙<br>- Fun Fact: I probably spent <b>5k+ hours</b> playing <b>skyrim</b> ⚡</p>
+<p align="left">- Senior Software Developer 💻 at <a href="https://www.linkedin.com/company/philips" target="_blank">Philips</a><br>- I really like learning new things and improve my skills. 💙<br>- Fun Fact: I probably spent <b>5k+ hours</b> playing <b>skyrim</b> ⚡</p>
 
 <p align="left">Software developer since 2018, today I work as a senior systems developer at Philips, ​​developing new internal technologies. Currently, I'm a fullstack web developer, working with typescript, react, node and postgresql.</p>
 
