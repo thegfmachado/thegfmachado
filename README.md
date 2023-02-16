@@ -1,4 +1,4 @@
-<h2 align="center">Hey There 🤘, I'm Gabriel Ferreira Machado</h2>
+![Header](./github-header-image.png)
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">🎯 Languages, Frameworks and Tools:</h3>
+<h3 align="left">🎯 Languages, frameworks and tools:</h3>
 
 ###
 
