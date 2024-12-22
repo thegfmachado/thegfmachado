@@ -68,12 +68,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thegfmachado&include_all_commits=true&count_private=true&theme=onedark" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=thegfmachado" height="150" alt="languages graph"  />
 </div>
-
-###
-<h3 align="left">🎵 Mood:</h3>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21zmcgk2jxclpjijp73rottfq" alt="Spotify recently played"  />
-</div>
-
-###
