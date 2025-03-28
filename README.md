@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-machado-0221ba15b" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-machado-0221ba15b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
   </a>
   <a href="mailto:gabriel.ferreira.machado@hotmail.com" target="_blank">
