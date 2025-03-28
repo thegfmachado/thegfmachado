@@ -1,10 +1,14 @@
-![Header](./github-header-image.png)
+![Header](./banner.png)
 
 ###
 
-<p align="left">- Senior Software Developer 💻 at <a href="https://www.linkedin.com/company/philips" target="_blank">Philips</a><br>- I really like learning new things and improve my skills. 💙<br>- Fun Fact: I probably spent <b>5k+ hours</b> playing <b>skyrim</b> ⚡</p>
+<p align="left">- Software Engineer 💻 at <a href="https://www.linkedin.com/company/philips" 
 
-<p align="left">Software developer since 2018, today I work as fullstack web developer at Philips, ​​developing new internal technologies. Currently I'm working with typescript, react, node and postgresql.</p>
+<p align="left">I am a Software Engineer at Philips. I have 7+ years of experience in software development, specializing in Front-End Engineering.</p>
+
+<p align="left">I have worked on multiple companies, and in those experiences, building robust, accessible, and scalable interfaces, always combining architectural thinking with a strong focus on user experience, performance, and code quality.</p>
+
+<p align="left">In the last 2 years, I’ve been focused on building tools and ecosystems that accelerate product development at scale, including creating a Design System from scratch, applied across interfaces used by hundreds of thousands of users and millions of monthly interactions.</p>
 
 ###
 
@@ -53,7 +57,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-machado-0221ba15b" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-machado-0221ba15b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
   </a>
   <a href="mailto:gabriel.ferreira.machado@hotmail.com" target="_blank">
